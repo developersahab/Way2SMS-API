@@ -4,7 +4,7 @@ An simple unofficial API to send messages using service provided by way2sms
 In this [repo](https://github.com/developersahab/Way2SMS-API), we currently have:
 
 
-* [PHP](https://github.com/developersahab/Way2SMS-API/tree/master/PHP): 
+* [PHP](https://developersahab.github.io/Way2SMS-API/): 
 -------
 
 ```php
